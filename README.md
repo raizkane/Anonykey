@@ -1,10 +1,10 @@
 # Anonykey
 
-A small Bash script used to have a strong passwords can be maintain anywhere.
+A seed based password generator/handler.
 
 Usage: "seed""service"
 
-example: th47ss33dreddit
+example: s33dgithub
 
 this will generate a long password you can use (you don't have to copy it all)
 
