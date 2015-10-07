@@ -2,7 +2,7 @@
 
 A seed based password generator/handler.
 
-Usage: "seed""service"
+Usage: src/main.py "seed + name"
 
 example: s33dgithub
 
